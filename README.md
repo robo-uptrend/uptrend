@@ -11,7 +11,7 @@ The robot will only have trade access and will only ask you for 11% of the total
 The average profit of the robot in rising markets is 88% on average for each month and also in the falling market you will have up to 71% profit per month.
 
 Up Trend Robot will be available only in American countries, Europe and East Asia. Please do not use the robot if you are from other countries.
-
+<img src="https://github.com/robo-uptrend/uptrend/blob/main/photo_2022-10-26_18-52-27.jpg?raw=true" >
 To get started, there is no need to invest or connect an account, and you can be sure of the performance of the robot by placing $1000 in the test account free of charge.
 
 Also, for a real account and real profit, you only need to connect the api site where your balance is with trade access to the robot.
