@@ -2,7 +2,7 @@
 robot for auto trade
 Smart Trader Robot is a powerful robot for Windows desktop in the field of digital currencies and forex trading.
 
-https://github.com/robo-uptrend/uptrend/blob/main/photo_2022-10-26_18-52-22.jpg?raw=true
+<img src="https://github.com/robo-uptrend/uptrend/blob/main/photo_2022-10-26_18-52-22.jpg?raw=true" >
 
 It is possible to test without connecting the Nair account for the assurance of market investors.
 
